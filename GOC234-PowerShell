@@ -1,0 +1,2 @@
+# Uninstall Default Teams Appx package
+Get-AppxProvisionedPackage -Online | Where-Object {$_.PackageName -like "MicrosoftTeams*"} | Remove-AppxProvisionedPackage -Online
