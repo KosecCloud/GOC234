@@ -12,4 +12,5 @@ WHERE  FCM.CollectionID = @CollID
 GROUP BY DisplayName0
 ORDER BY DisplayName0
 
+# SQL Query - Updates and Servicing (Package Guid)
 SELECT FROM ConfigMgr_CHQ.dbo.CM_UpdatePackages where PackageGuid =¨
