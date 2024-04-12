@@ -1,0 +1,4 @@
+WDSUtil /get-server /show:config
+WDSUTIL /get-server /show:all /detailed
+
+wdsutil /set-server /wdsclientlogging /enabled:yes
