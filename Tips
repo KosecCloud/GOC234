@@ -5,3 +5,5 @@ powercfg /getActiveScheme
 
 # Change Time Zone
 Set-TimeZone "Central Europe Standard Time"
+
+wmic qfe list brief /format:table
