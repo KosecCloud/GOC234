@@ -1,2 +1,34 @@
 # Latest updates and version history for SQL Server 2022
 https://learn.microsoft.com/en-us/troubleshoot/sql/releases/download-and-install-latest-updates#sql-server-2022
+
+CMPivot:
+https://learn.microsoft.com/en-us/mem/configmgr/core/servers/manage/cmpivot-sample-scripts
+https://www.systemcenterdudes.com/sccm-cmpivot-query/
+
+https://github.com/prae1809/PowerShell-Scripts/find/master
+
+https://developer.microsoft.com/en-us/microsoft-365/dev-program
+
+https://www.prajwaldesai.com/add-multiple-devices-to-sccm-collection-using-powershell/
+
+https://learn.microsoft.com/en-us/troubleshoot/mem/configmgr/update-management/windows-server-update-services-best-practices#disable-recycling-and-configure-memory-limits
+
+https://msendpointmgr.com/driver-automation-tool/
+
+https://shop.hak5.org/collections/mischief-gadgets
+
+https://www.ronnipedersen.com/wmi-query/
+
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/deployment/enable-logging-windows-deployment-service
+
+https://learn.microsoft.com/en-us/mem/configmgr/core/plan-design/network/example-deployment-of-pki-certificates
+
+OSD - Task Sequence Monitor
+https://github.com/SMSAgentSoftware/ConfigMgr-Task-Sequence-Monitor/releases/tag/v1.6
+https://smsagent.blog/tools/configmgr-task-sequence-monitor/#:~:text=ConfigMgr%20Task%20Sequence%20Monitor%20is%20an%20application%20that,review%20the%20results%20of%20historic%20task%20sequence%20deployments.
+
+OSD - Task sequence variables
+https://learn.microsoft.com/en-us/mem/configmgr/osd/understand/task-sequence-variables
+
+MECM APi:
+https://learn.microsoft.com/en-us/mem/configmgr/develop/reference/configuration-manager-reference
