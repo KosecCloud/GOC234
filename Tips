@@ -1,1 +1,4 @@
+# Run as high performance power plan (No VMs effect) - 20-40%
+
 powercfg /L
+powercfg /getActiveScheme
