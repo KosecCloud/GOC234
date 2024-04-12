@@ -2,3 +2,6 @@
 
 powercfg /L
 powercfg /getActiveScheme
+
+# Change Time Zone
+Set-TimeZone "Central Europe Standard Time"
