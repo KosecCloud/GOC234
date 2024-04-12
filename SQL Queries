@@ -1,0 +1,12 @@
+# 
+DECLARE @CollID AS VARCHAR(8);
+SET @CollID = 'SMS00001'
+
+SELECT  DisplayName0 As 'Product Name'
+FROM  v_Add_Remove_Programs As ARP 
+
+JOIN v_FullCollectionMembership As FCM on ARP.ResourceID=FCM.ResourceID  
+
+WHERE  FCM.CollectionID = @CollID 
+GROUP BY DisplayName0
+ORDER BY DisplayName0
