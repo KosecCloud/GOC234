@@ -11,3 +11,5 @@ JOIN v_FullCollectionMembership As FCM on ARP.ResourceID=FCM.ResourceID
 WHERE  FCM.CollectionID = @CollID 
 GROUP BY DisplayName0
 ORDER BY DisplayName0
+
+SELECT FROM ConfigMgr_CHQ.dbo.CM_UpdatePackages where PackageGuid =¨
