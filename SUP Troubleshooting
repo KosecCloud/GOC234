@@ -2,4 +2,6 @@ $Server = Get-WsusServer
 $Config = $Server.GetConfiguration()
 $Config.MUUrl
 
+wmic qfe list brief /format:table
+
 Invoke-CMClientNotification -CollectionId SMS00001 -NotificationType RequestMachinePolicyNow
